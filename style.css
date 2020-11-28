@@ -48,12 +48,13 @@ label{
     color:blue;
 }
 
-a{
+a {
     color: white;
-    font-size: 2px
+    font-size: 20px
 }
 a:link
 {
+    size: 20px;
     color:white;
 }
 a:hover 
@@ -69,7 +70,3 @@ pq {
     text-indent: -4em;
     margin-left: 6em;
     }
-
-a {
-    font-size: 20px;
-}
